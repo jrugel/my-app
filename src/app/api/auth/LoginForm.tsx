@@ -45,7 +45,7 @@ export default function LoginForm() {
             {/* <a className="font-medium no-underline ml-2 text-blue-500 text-right cursor-pointer">Forgot your password?</a> */}
           </div>
 
-          <Button label="Sign In" type="submit" icon="pi pi-user" severity={DEFAULT_SEVERITY} className="w-full" />
+          <Button label="Sign In" type="submit" icon="pi pi-sign-in" severity={DEFAULT_SEVERITY} className="w-full" />
         </div>
       </Card>
     </form>
