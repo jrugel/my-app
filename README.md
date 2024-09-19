@@ -1,21 +1,28 @@
 # my-app-scaffold
 
-This is a functional and productive [scaffold](<https://en.wikipedia.org/wiki/Scaffold_(programming)>) using my favorite Stack: [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org) + [App Router](https://nextjs.org/docs/app) + [PrimeReact](https://primereact.org/) + [Auth.js](https://auth.js.org/).
+This is a super-productive [scaffold](<https://en.wikipedia.org/wiki/Scaffold_(programming)>) using [Next.js](https://nextjs.org) + [App Router](https://nextjs.org/docs/app) + [TypeScript](https://www.typescriptlang.org) + [PrimeReact](https://primereact.org/) + [Auth.js](https://auth.js.org/).
 
 [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+1. Create a new repository based on this template.
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Setup environment:
+
+```bash
+npx auth secret
+```
+
+4. Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
