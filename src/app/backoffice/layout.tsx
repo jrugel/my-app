@@ -8,9 +8,9 @@ export default function BackOfficeLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <div className="min-h-screen flex flex-col debug">
+    <div className="min-h-screen flex flex-col">
       <Header />
-      <main className="flex-grow container mx-auto p-2">{children}</main>
+      <main className="flex-grow container mx-auto px-2 py-5">{children}</main>
       <Footer />
     </div>
   );
