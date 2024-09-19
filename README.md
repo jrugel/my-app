@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# my-app-scaffold
+
+This is a functional and productive [scaffold](<https://en.wikipedia.org/wiki/Scaffold_(programming)>) using my favorite Stack: [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlang.org) + [App Router](https://nextjs.org/docs/app) + [PrimeReact](https://primereact.org/) + [Auth.js](https://auth.js.org/).
+
+[Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
